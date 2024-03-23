@@ -53,3 +53,10 @@ Conclusion
 The MERN stack Todo List application offers a simple and intuitive interface for users to manage their daily tasks efficiently. With features like user authentication, real-time synchronization, pagination, and search functionality, users can seamlessly organize their Todo items according to their preferences.
 
 Feel free to customize this documentation according to your specific preferences or add any additional sections if needed. Let me know if you need further assistance!
+![Screenshot from 2024-03-24 00-37-03](https://github.com/skrafikulislam/job-assignment-todo/assets/92181518/c8bc03fb-7563-453a-8e9b-fe4705102d31)
+
+
+
+![Screenshot from 2024-03-24 00-38-05](https://github.com/skrafikulislam/job-assignment-todo/assets/92181518/a4086732-921d-44e7-8d36-b3d29ebf65da)
+
+
